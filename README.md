@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I also enjoy guitar and video games.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: arcticcomet#2564, linkedin.com/in/christian-penrod-800341215](linkedin.com/in/christian-penrod-800341215 </h3>
 <p align="left">
 </p>
 

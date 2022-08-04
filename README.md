@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I also enjoy guitar and video games.**
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
+
 <h3 align="left">Connect with me: Discord: arcticcomet#2564, LinkedIn: linkedin.com/in/christian-penrod-800341215](linkedin.com/in/christian-penrod-800341215 </h3>
 <p align="left">
 </p>

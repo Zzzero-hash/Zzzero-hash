@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzzero-hash" alt="zzzero-hash" /></a> </p>
 
-- 🔭 I’m currently working on [Blockchain A-Z™: Learn How To Build Your First Blockchain](https://www.udemy.com/)
+- 🔭 I'm currently teaching myself Machine Learning, and building my own price prediction model for stocks and cryptocurrencies with Long-Short-Term-Models.
 
 - 🌱 I’m currently learning **Cybersecurity, Kali Linux, Github, Python, C++, Data Analysis (SQL, Tableau, Spreadsheets) and more!**
 

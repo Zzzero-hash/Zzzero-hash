@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently teaching myself Machine Learning, and building my own price prediction model for stocks and cryptocurrencies with Long-Short-Term-Models.
 
-- 🌱 I’m currently learning **Cybersecurity, Kali Linux, Github, Python, C++, Data Analysis (SQL, Tableau, Spreadsheets) and more!**
+- 🌱 I’m currently learning **Cybersecurity, Kali Linux, Github, Python, Kubernetes, Data Analysis (SQL, Tableau, Spreadsheets) and more!**
 
 - 💬 Ask me about **Windows, Active Directory, Networking, Security**
 

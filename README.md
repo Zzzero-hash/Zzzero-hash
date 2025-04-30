@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzzero-hash" alt="zzzero-hash" /></a> </p>
 
-- 🔭 I'm currently teaching myself Machine Learning, and building my own price prediction model for stocks and cryptocurrencies with Long-Short-Term-Models.
+- 🔭 I'm currently teaching myself Machine Learning, K8s, Virtualization and Docker.
 
 - 🌱 I’m currently learning **Cybersecurity, Kali Linux, Github, Python, Kubernetes, Data Analysis (SQL, Tableau, Spreadsheets) and more!**
 
-- 💬 Ask me about **Windows, Active Directory, Networking, Security**
+- 💬 Ask me about **Windows, Linux, Networking, Security, Virtualization, Storage**
 
-- 📫 How to reach me **christianpenrod@gmail.com**
+- 📫 How to reach me **christianpenrod@gmail.com - Personal** **cmp6510@psu.edu - Work**
 
 - 📄 Know about my experiences [linkedin.com/in/christian-penrod-800341215](linkedin.com/in/christian-penrod-800341215)
 

@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently teaching myself Machine Learning, K8s, Virtualization and Docker.
 
-- 🌱 I’m currently learning **Cybersecurity, Kali Linux, Github, Python, Kubernetes, Data Analysis (SQL, Tableau, Spreadsheets) and more!**
+- 🌱 I’m currently learning **AI, Machine Learning, PyTorch, Ray[RLLib], Github, Python, Kubernetes, Data Analysis (SQL, Tableau, Pandas) and more!**
 
 - 💬 Ask me about **Windows, Linux, Networking, Security, Virtualization, Storage**
 

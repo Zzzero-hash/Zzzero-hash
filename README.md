@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Cyber security student with a passion for Blockchain and Music</h3>
+<h3 align="center">Cyber security graduate with a passion for all things AI, Architecture and Networkingt. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zzzero-hash&label=Profile%20views&color=0e75b6&style=flat" alt="zzzero-hash" /> </p>
 

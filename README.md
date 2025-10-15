@@ -1,33 +1,89 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Cyber security graduate with a passion for all things AI, Architecture and Networking. </h3>
+<h1 align="center">👋 Hey, I’m Christian</h1>
+<h3 align="center">Founder @ Three Rivers Tech | Cybersecurity & Infrastructure Enthusiast | Local IT + Software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zzzero-hash&label=Profile%20views&color=0e75b6&style=flat" alt="zzzero-hash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzzero-hash" alt="zzzero-hash" /></a> </p>
-
-- 🔭 I'm currently teaching myself Machine Learning, K8s, Virtualization and Docker.
-
-- 🌱 I’m currently learning **AI, Machine Learning, PyTorch, Ray[RLLib], Github, Python, Kubernetes, Data Analysis (SQL, Tableau, Pandas) and more!**
-
-- 💬 Ask me about **Windows, Linux, Networking, Security, Virtualization, Storage**
-
-- 📫 How to reach me **christianpenrod@gmail.com - Personal** **cmp6510@psu.edu - Work**
-
-- 📄 Know about my experiences [linkedin.com/in/christian-penrod-800341215](linkedin.com/in/christian-penrod-800341215)
-
-- ⚡ Fun fact **I also enjoy guitar and video games.**
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
-</div>
-
-<h3 align="left">Connect with me: Discord: arcticcomet#2564, LinkedIn: linkedin.com/in/christian-penrod-800341215](linkedin.com/in/christian-penrod-800341215 </h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zzzero-hash&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzzero-hash&show_icons=true&locale=en&layout=compact" alt="zzzero-hash" /></p>
+### 🏢 What is Three Rivers Tech
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzzero-hash&show_icons=true&locale=en" alt="zzzero-hash" /></p>
+Three Rivers Tech is a **local technology services company** based in Turtle Creek / Mon Valley, PA. We provide:
+
+- Home & personal tech support (repairs, virus removal, Wi-Fi setup, smartphone help)  
+- IT services for small businesses (network setup, basic cybersecurity, website maintenance)  
+- Custom web & mobile development (web apps, APIs, client websites)  
+- Community education: free workshops on computer basics, online safety, small business tech help  
+
+Our mission: bring honest, capable tech help to local residents and small businesses — in plain English, with no fluff.
+
+---
+
+### 🔧 What I’m Working On (and What I’m Aiming Toward)
+
+**Current / Delivered / Growing:**
+
+- Local IT support & network setup  
+- Web & mobile software projects for small clients  
+- Cybersecurity / basic threat hardening  
+- Workshops / education to increase tech literacy  
+- Portfolio work in consulting, cloud migration, network optimization  
+
+**Aspirational (things I’m building toward):**
+
+- AI/ML pipelines & lightweight inference systems  
+- Containerized infrastructure, edge compute, GPU utilization  
+- Hybrid cloud + local compute solutions  
+- Building out a “tech stack” arm of Three Rivers Tech to deliver advanced systems  
+
+---
+
+### 💬 Ask Me About
+
+- 🧰 Home / small business IT & network design  
+- 🐧 Linux, networking, and servers  
+- 🛡️ Cybersecurity basics, vulnerability assessment  
+- 🌐 Custom web & mobile development (React, Node.js, Next.js)  
+- 🧠 AI/ML tooling (as hobby / personal projects)  
+
+---
+
+### 📫 Contact
+
+- 📧 Personal: **christianpenrod@gmail.com**  
+- 📧 Work: **cmp6510@psu.edu**  
+- 💼 LinkedIn: [linkedin.com/in/christian-penrod-800341215](https://linkedin.com/in/christian-penrod-800341215)  
+- 🖥️ Company site: [three-rivers-tech.com](https://www.three-rivers-tech.com)  
+- 💬 Discord: `arcticcomet#2564`
+
+---
+
+### 🛠️ Tools & Tech I Use / Explore
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzzero-hash&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zzzero-hash&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+💬 *Note:* This profile reflects what I can reliably and credibly offer now, plus the road ahead. I’d rather promise less and deliver more. 

@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Christian</h1>
-<h3 align="center">AI Systems Engineer | Reinforcement Learning Developer | Founder @ Three Rivers Tech</h3>
+<h3 align="center">Help Desk Support Technician | IT Systems Engineer | Reinforcement Learning Enthusiast | Founder @ Three Rivers Tech</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzzero-hash&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
@@ -9,45 +9,52 @@
 
 ### 🧠 About Me
 
-I design, build, and deploy **intelligent systems** — from containerized **reinforcement learning agents** and GPU-accelerated training pipelines to secure distributed compute infrastructure. My work sits at the intersection of **AI**, **networking**, and **systems architecture**, with a focus on real-world deployments and automation.
+I’m a systems-minded engineer who loves building technology that actually *does something useful*. My background is a mix of hands-on IT work, network architecture, and deep curiosity about how AI and automation can make infrastructure smarter.
 
-My projects include:
+I’ve spent **over 5 years working as a Help Desk Technician** at a university, solving real problems for real people — everything from network outages and endpoint failures to complex enterprise support tickets. That experience shaped the way I approach engineering: practical first, scalable second, and always with users in mind.
 
-- 🤖 Developing scalable RL pipelines with **Ray RLlib**, **PyTorch**, and GPT-powered decision engines  
-- ☸️ Orchestrating workloads across **Kubernetes**, **K3s**, and **Proxmox** clusters with GPU acceleration  
-- 🧠 Experimenting with **meta-learning**, **EWC**, and hybrid **Transformer-LSTM** models  
-- 🧩 Building **microservices**, automated pipelines, and self-healing container ecosystems  
-- 🛡️ Designing secure, high-availability networks and edge infrastructure  
-
-I’m obsessed with **scalability**, **automation**, and **teaching AI to reason** — not just predict.
+I hold a degree in **Cybersecurity Analytics & Operations from Penn State Greater Allegheny**, which gave me a strong foundation in security principles, network design, and risk management — skills I now use daily as I branch deeper into systems automation and machine learning.
 
 ---
 
-### 🏢 About Three Rivers Tech
+### 🏢 Three Rivers Tech
 
-I’m also the founder of **[Three Rivers Tech](https://www.three-rivers-tech.com)** — a growing startup in western Pennsylvania focused on helping **small businesses and local communities** harness modern technology.  
+I’m also the founder of **[Three Rivers Tech](https://www.three-rivers-tech.com)**, a small but growing tech startup based in western Pennsylvania. Right now, we focus on:
 
-Right now, we provide **IT support**, **network design**, **cybersecurity**, and **software development**. Our long-term goal: evolve into a regional hub for **AI-powered infrastructure**, **edge compute services**, and **intelligent automation solutions** — bringing cutting-edge tech to the kinds of organizations that usually can’t access it.
+- 💻 Local IT support & troubleshooting  
+- 🛜 Small business network design and security  
+- 🧰 Software & web development  
+- 🧑‍🏫 Community tech education and workshops  
+
+The long-term vision is to evolve Three Rivers Tech into a hub for **intelligent infrastructure**, **edge computing**, and **AI-assisted services** — making advanced tools accessible to small businesses and local communities.
 
 ---
 
-### 📚 Current Areas of Focus
+### ⚙️ What I’m Working On
 
-- 🧪 Multi-agent RL and decision fusion  
-- 📈 Real-time feature pipelines and AI-driven trading systems  
+- 🤖 Building reinforcement learning pipelines with **PyTorch** and **Ray RLlib**  
+- ☸️ Orchestrating containerized workloads across **Kubernetes**, **K3s**, and **Proxmox** clusters  
+- 🧩 Automating infrastructure deployments with microservices and inference pipelines  
+- 🛡️ Designing secure, scalable environments with zero-trust principles
+
+---
+
+### 📚 Interests & Current Focus
+
+- 🧠 Multi-agent RL and decision fusion  
+- 📊 Real-time feature pipelines and AI-driven trading systems  
 - ☁️ Hybrid cloud + on-prem orchestration for distributed compute  
-- 💼 Secure containerized services for small businesses  
 - 🔌 Monetization of edge compute (Akash, Flux, Storj, etc.)
 
 ---
 
 ### 💬 Ask Me About
 
-- 🐧 Linux, containers, and virtualization  
-- ☸️ Kubernetes, automation, and distributed systems  
-- 🔐 Cybersecurity architecture and zero-trust design  
-- 🤖 AI pipelines, model deployment, and inference scaling  
-- 🌐 Web and infrastructure development for small businesses
+- 🐧 Linux systems, containerization, and virtualization  
+- ☸️ Cluster automation, orchestration, and deployment pipelines  
+- 🔐 Cybersecurity fundamentals and network architecture  
+- 🤖 Building AI workflows and deploying ML models  
+- 🌐 Software and infrastructure for small businesses
 
 ---
 
@@ -90,4 +97,4 @@ Right now, we provide **IT support**, **network design**, **cybersecurity**, and
 
 ---
 
-💡 *Fun fact:* When I’m not training agents or building clusters, I’m probably modding a game server, designing a flower shop interior, or turning old hardware into something useful. The projects never stop.
+💡 *Fun fact:* I love projects that start small and grow into something meaningful — whether that’s a new RL model, a home-lab cluster, or a neighborhood tech initiative.

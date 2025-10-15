@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hey, I’m Christian</h1>
-<h3 align="center">Founder @ Three Rivers Tech | Cybersecurity & Infrastructure Enthusiast | Local IT + Software</h3>
+<h1 align="center">👋 Hey, I'm Christian</h1>
+<h3 align="center">AI Systems Engineer | Reinforcement Learning Developer | Founder @ Three Rivers Tech</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzzero-hash&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
@@ -7,69 +7,73 @@
 
 ---
 
-### 🏢 What is Three Rivers Tech
+### 🧠 About Me
 
-Three Rivers Tech is a **local technology services company** based in Turtle Creek / Mon Valley, PA. We provide:
+I design, build, and deploy **intelligent systems** — from containerized **reinforcement learning agents** and GPU-accelerated training pipelines to secure distributed compute infrastructure. My work sits at the intersection of **AI**, **networking**, and **systems architecture**, with a focus on real-world deployments and automation.
 
-- Home & personal tech support (repairs, virus removal, Wi-Fi setup, smartphone help)  
-- IT services for small businesses (network setup, basic cybersecurity, website maintenance)  
-- Custom web & mobile development (web apps, APIs, client websites)  
-- Community education: free workshops on computer basics, online safety, small business tech help  
+My projects include:
 
-Our mission: bring honest, capable tech help to local residents and small businesses — in plain English, with no fluff.
+- 🤖 Developing scalable RL pipelines with **Ray RLlib**, **PyTorch**, and GPT-powered decision engines  
+- ☸️ Orchestrating workloads across **Kubernetes**, **K3s**, and **Proxmox** clusters with GPU acceleration  
+- 🧠 Experimenting with **meta-learning**, **EWC**, and hybrid **Transformer-LSTM** models  
+- 🧩 Building **microservices**, automated pipelines, and self-healing container ecosystems  
+- 🛡️ Designing secure, high-availability networks and edge infrastructure  
+
+I’m obsessed with **scalability**, **automation**, and **teaching AI to reason** — not just predict.
 
 ---
 
-### 🔧 What I’m Working On (and What I’m Aiming Toward)
+### 🏢 About Three Rivers Tech
 
-**Current / Delivered / Growing:**
+I’m also the founder of **[Three Rivers Tech](https://www.three-rivers-tech.com)** — a growing startup in western Pennsylvania focused on helping **small businesses and local communities** harness modern technology.  
 
-- Local IT support & network setup  
-- Web & mobile software projects for small clients  
-- Cybersecurity / basic threat hardening  
-- Workshops / education to increase tech literacy  
-- Portfolio work in consulting, cloud migration, network optimization  
+Right now, we provide **IT support**, **network design**, **cybersecurity**, and **software development**. Our long-term goal: evolve into a regional hub for **AI-powered infrastructure**, **edge compute services**, and **intelligent automation solutions** — bringing cutting-edge tech to the kinds of organizations that usually can’t access it.
 
-**Aspirational (things I’m building toward):**
+---
 
-- AI/ML pipelines & lightweight inference systems  
-- Containerized infrastructure, edge compute, GPU utilization  
-- Hybrid cloud + local compute solutions  
-- Building out a “tech stack” arm of Three Rivers Tech to deliver advanced systems  
+### 📚 Current Areas of Focus
+
+- 🧪 Multi-agent RL and decision fusion  
+- 📈 Real-time feature pipelines and AI-driven trading systems  
+- ☁️ Hybrid cloud + on-prem orchestration for distributed compute  
+- 💼 Secure containerized services for small businesses  
+- 🔌 Monetization of edge compute (Akash, Flux, Storj, etc.)
 
 ---
 
 ### 💬 Ask Me About
 
-- 🧰 Home / small business IT & network design  
-- 🐧 Linux, networking, and servers  
-- 🛡️ Cybersecurity basics, vulnerability assessment  
-- 🌐 Custom web & mobile development (React, Node.js, Next.js)  
-- 🧠 AI/ML tooling (as hobby / personal projects)  
+- 🐧 Linux, containers, and virtualization  
+- ☸️ Kubernetes, automation, and distributed systems  
+- 🔐 Cybersecurity architecture and zero-trust design  
+- 🤖 AI pipelines, model deployment, and inference scaling  
+- 🌐 Web and infrastructure development for small businesses
 
 ---
 
-### 📫 Contact
+### 📫 Connect With Me
 
 - 📧 Personal: **christianpenrod@gmail.com**  
 - 📧 Work: **cmp6510@psu.edu**  
 - 💼 LinkedIn: [linkedin.com/in/christian-penrod-800341215](https://linkedin.com/in/christian-penrod-800341215)  
-- 🖥️ Company site: [three-rivers-tech.com](https://www.three-rivers-tech.com)  
+- 🖥️ Company: [www.three-rivers-tech.com](https://www.three-rivers-tech.com)  
 - 💬 Discord: `arcticcomet#2564`
 
 ---
 
-### 🛠️ Tools & Tech I Use / Explore
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
 </p>
 
 ---
@@ -86,4 +90,4 @@ Our mission: bring honest, capable tech help to local residents and small busine
 
 ---
 
-💬 *Note:* This profile reflects what I can reliably and credibly offer now, plus the road ahead. I’d rather promise less and deliver more. 
+💡 *Fun fact:* When I’m not training agents or building clusters, I’m probably modding a game server, designing a flower shop interior, or turning old hardware into something useful. The projects never stop.

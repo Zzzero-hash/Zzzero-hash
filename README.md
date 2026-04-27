@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Christian</h1>
-<h3 align="center">Help Desk Support Technician | IT Systems Engineer | Reinforcement Learning Enthusiast | Founder @ Three Rivers Tech</h3>
+<h3 align="center">IT Systems Engineer | Automation Builder | Founder @ GroveX Tech &amp; Solutions LLC</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzzero-hash&label=Visitors&color=0e75b6&style=flat" alt="profile views" />
@@ -9,61 +9,75 @@
 
 ### 🧠 About Me
 
-I’m a systems-minded engineer who loves building technology that actually *does something useful*. My background is a mix of hands-on IT work, network architecture, and deep curiosity about how AI and automation can make infrastructure smarter.
+I’m a systems-minded engineer who likes building technology that actually solves real operational problems.
 
-I’ve spent **over 5 years working as a Help Desk Technician** at a university, solving real problems for real people — everything from network outages and endpoint failures to complex enterprise support tickets. That experience shaped the way I approach engineering: practical first, scalable second, and always with users in mind.
+My background blends hands-on IT support, network and systems work, automation, and applied AI. I’ve spent **over 5 years working in help desk and technical support**, which shaped the way I approach engineering: practical first, reliable second, and always tied back to what the user or business actually needs.
 
-I hold a degree in **Cybersecurity Analytics & Operations from Penn State Greater Allegheny**, which gave me a strong foundation in security principles, network design, and risk management — skills I now use daily as I branch deeper into systems automation and machine learning.
-
----
-
-### 🏢 Three Rivers Tech
-
-I’m also the founder of **[Three Rivers Tech](https://www.three-rivers-tech.com)**, a small but growing tech startup based in western Pennsylvania. Right now, we focus on:
-
-- 💻 Local IT support & troubleshooting  
-- 🛜 Small business network design and security  
-- 🧰 Software & web development  
-- 🧑‍🏫 Community tech education and workshops  
-
-The long-term vision is to evolve Three Rivers Tech into a hub for **intelligent infrastructure**, **edge computing**, and **AI-assisted services** — making advanced tools accessible to small businesses and local communities.
+I hold a degree in **Cybersecurity Analytics & Operations from Penn State Greater Allegheny**, and I use that foundation daily while building stronger systems, cleaner workflows, and more useful software.
 
 ---
 
-### ⚙️ What I’m Working On
+### 🏢 GroveX Tech & Solutions LLC
 
-- 🤖 Building reinforcement learning pipelines with **PyTorch** and **Ray RLlib**  
-- ☸️ Orchestrating containerized workloads across **Kubernetes**, **K3s**, and **Proxmox** clusters  
-- 🧩 Automating infrastructure deployments with microservices and inference pipelines  
-- 🛡️ Designing secure, scalable environments with zero-trust principles
+I’m the founder of **[GroveX Tech & Solutions LLC](https://grovextech.com)**.
+
+Current company focus:
+
+- 💻 Websites and web presence improvements for small businesses
+- ⚙️ Automation, internal tools, and practical software systems
+- 🛠️ IT support, troubleshooting, and technical cleanup
+- 📈 Technology foundations that support long-term business growth
+
+You can also browse company work on GitHub here:
+
+- **[GroveX Tech GitHub Organization](https://github.com/Grovex-Tech-Solutions)**
+
+---
+
+### ⚙️ What I’ve Been Working On Lately
+
+- 🤖 Improving **Finance Feedback Engine (FFE)** for more reliable decision tracking, runtime correctness, and feedback loops
+- 🧪 Building **DERRR**, an auditable improvement loop for live agent systems and operational debugging
+- 🌐 Repositioning and rebuilding the **GroveX Tech** website and portfolio around technology, trust, and growth
+- 🧩 Designing automations and business-facing systems that reduce friction for small operations
+- 🔐 Applying security-minded thinking to infrastructure, deployment, and support workflows
+
+---
+
+### 🚀 Featured Public Work
+
+- **[Finance Feedback Engine](https://github.com/Zzzero-hash/finance_feedback_engine)** — automated portfolio simulation and feedback-driven system design
+- **[DERRR](https://github.com/Zzzero-hash/derrr)** — hypothesis-driven improvement loop for live agent systems
+- **[GroveX Tech GitHub](https://github.com/Grovex-Tech-Solutions)** — company projects, websites, and public build surfaces
+- **[Trade-Agent](https://github.com/Zzzero-hash/Trade-Agent)** — AI-powered trading research and execution experiments
 
 ---
 
 ### 📚 Interests & Current Focus
 
-- 🧠 Multi-agent RL and decision fusion  
-- 📊 Real-time feature pipelines and AI-driven trading systems  
-- ☁️ Hybrid cloud + on-prem orchestration for distributed compute  
-- 🔌 Monetization of edge compute (Akash, Flux, Storj, etc.)
+- 🧠 Agent systems, feedback loops, and runtime observability
+- 📊 Decision-support systems, analytics, and trading infrastructure
+- ☁️ Reliable deployment patterns for hybrid local/cloud environments
+- 🔌 Practical automation for small-business operations and growth
 
 ---
 
 ### 💬 Ask Me About
 
-- 🐧 Linux systems, containerization, and virtualization  
-- ☸️ Cluster automation, orchestration, and deployment pipelines  
-- 🔐 Cybersecurity fundamentals and network architecture  
-- 🤖 Building AI workflows and deploying ML models  
-- 🌐 Software and infrastructure for small businesses
+- 🐧 Linux systems, containerization, and virtualization
+- ⚙️ IT operations, automation, and technical cleanup
+- 🔐 Cybersecurity fundamentals and network architecture
+- 🤖 AI workflows, tooling, and applied systems work
+- 🌐 Websites, software, and business-facing technology foundations
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 Personal: **christianpenrod@gmail.com**  
-- 📧 Work: **cmp6510@psu.edu**  
-- 💼 LinkedIn: [linkedin.com/in/christian-penrod-800341215](https://linkedin.com/in/christian-penrod-800341215)  
-- 🖥️ Company: [www.three-rivers-tech.com](https://www.three-rivers-tech.com)  
+- 📧 Personal: **christianpenrod@gmail.com**
+- 📧 Work: **cmp6510@psu.edu**
+- 💼 LinkedIn: [linkedin.com/in/christian-penrod-800341215](https://linkedin.com/in/christian-penrod-800341215)
+- 🖥️ Company: [grovextech.com](https://grovextech.com)
 - 💬 Discord: `arcticcomet#2564`
 
 ---
@@ -97,4 +111,4 @@ The long-term vision is to evolve Three Rivers Tech into a hub for **intelligent
 
 ---
 
-💡 *Fun fact:* I love projects that start small and grow into something meaningful — whether that’s a new RL model, a home-lab cluster, or a neighborhood tech initiative.
+💡 *I like building things that move from rough idea to durable system — especially when the end result makes a business or workflow noticeably stronger.*
